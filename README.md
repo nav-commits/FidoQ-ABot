@@ -27,7 +27,6 @@ This project is a FIDO Q&A chatbot built with Next.js for the frontend, an API r
 - **Environment Variables:** LangSmith, Hugging Face API, Firebase config
 
 ---
-
 ## Installation
 
 ### 1️⃣ Clone the Repository
