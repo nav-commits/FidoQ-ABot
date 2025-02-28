@@ -1,3 +1,8 @@
+
+![Screenshot 2025-02-28 at 2 18 43 PM](https://github.com/user-attachments/assets/2248c05c-9c83-4ab1-997f-b5a279bc08d9)
+
+
+
 # FIDO Q&A Chatbot
 
 This project is a FIDO Q&A chatbot built with Next.js for the frontend, an API route for chat handling, and an Express server using LangChain with an LLM and LangSmith tracing. It leverages Firestore as a data source and FAISS for retrieval-augmented generation (RAG).
